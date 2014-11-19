@@ -53,14 +53,15 @@ static const char *browsers[][2] = {
   /* Lifelikeapps */
   
   /* craiglist */
-  {"classifieds_free/", "Craigslist Universal Free"},
-  {"classifieds/", "Craigslist Universal Paid"},
-  {"LifelikeClassifieds_Iphone_Paid/", "Craigslist iPhone Paid"},
-  {"LifelikeClassifieds_Ipad_Paid/", "Craigslist iPad Paid"},
+  {"classifieds_free/", "CL_Uni_Free"},
+  {"classifieds/", "CL_Uni_Paid"},
+  {"LifelikeClassifieds_Iphone_Paid/", "CL_iPho_Paid"},
+  {"LifelikeClassifieds_Ipad_Paid/", "CL_iPad_Paid"},
+
   /* stocks */
-  {"LifelikeStocks/", "Stocks Universal Free"},
-  {"LifelikeStocksPaid/", "Stocks Universal Paid"},
-  {"LifelikeStocksPro/", "Stocks Universal Pro"},
+  {"LifelikeStocks/", "Stock_U_Free"},
+  {"LifelikeStocksPaid/", "Stock_U_Paid"},
+  {"LifelikeStocksPro/", "Stock_U_Pro"},
   
   
   /* Others */

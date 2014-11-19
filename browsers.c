@@ -50,6 +50,19 @@ static const char *browsers[][2] = {
   {"OPiOS", "Opera"},
   {"Coast", "Opera"},
 
+  /* Lifelikeapps */
+  
+  /* craiglist */
+  {"classifieds_free/", "Craigslist Universal Free"},
+  {"classifieds/", "Craigslist Universal Paid"},
+  {"LifelikeClassifieds_Iphone_Paid/", "Craigslist iPhone Paid"},
+  {"LifelikeClassifieds_Ipad_Paid/", "Craigslist iPad Paid"},
+  /* stocks */
+  {"LifelikeStocks/", "Stocks Universal Free"},
+  {"LifelikeStocksPaid/", "Stocks Universal Paid"},
+  {"LifelikeStocksPro/", "Stocks Universal Pro"},
+  
+  
   /* Others */
   {"APT-HTTP", "Others"},
   {"Apt-Cacher", "Others"},

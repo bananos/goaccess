@@ -62,6 +62,26 @@ static const char *browsers[][2] = {
   {"LifelikeStocks/", "Stock_U_Free"},
   {"LifelikeStocksPaid/", "Stock_U_Paid"},
   {"LifelikeStocksPro/", "Stock_U_Pro"},
+ 
+  /* flickr clock */
+  {"FlickrClock/", "FLC"},  
+  {"FlickrClock-Free/", "FLC_Free"},
+  {"FlickrClockIphone-Free/", "FLC_Ipho_Free"},
+  {"FlickrClockIphone/","FLC_Ipho"},
+  
+  /* FlipClock */
+  {"FlipClock/", "FlipClock"},
+  {"FlipClock-Free/", "FlipClock_free"},
+  {"FlipFreeHD", "FlipFreeHD"},
+ 
+  /* unknown */
+  {"iPadLite", "iPadLite"},
+  {"iPadFull", "iPadFull"},
+  {"FotoAlbum", "FotoAlbum"},
+  {"WeatherClockFree", "WTH_Clock_Fr"},
+       
+  /* AMZN */
+  {"Amazon Route 53", "AMZN_Health"},
   
   
   /* Others */
